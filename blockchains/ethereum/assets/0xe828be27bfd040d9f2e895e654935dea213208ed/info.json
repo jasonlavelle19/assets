@@ -1,0 +1,11 @@
+{
+  "name": "Puricoin",
+  "symbol": "PUR",
+  "type": "ERC20",
+  "decimals": 18,
+  "website": "https://www.puritoken.com",
+  "description": "Puricoin is the utility token powering the Puritoken funding and real-world asset tokenization ecosystem.",
+  "explorer": "https://etherscan.io/token/0xe828be27bfd040d9f2e895e654935dea213208ed",
+  "status": "active",
+  "id": "0xe828be27bfd040d9f2e895e654935dea213208ed"
+}
